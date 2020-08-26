@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8b3d8add1c7d3c8d0ea7feccacd80275ab3a1ade",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-08-26 19:13:26",
+    "files": 4,
+    "merge": false,
+    "message": "#83 fix gist_auth\n\nhttr::oauth2.0_token doesnt return token in header slot anymore\nchange how token is accessed\nadd at return for the fxn to tell users what should be returned\nbump dev version\nadd news item\n"
+  },
+  "remote": "https://github.com/ropensci/gistr",
+  "pkg": "gistr"
+}
