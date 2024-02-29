@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "61f2003a539bc7b08750c451b087a36b316c6a2e",
+    "author": "Eric Milgram <4348294+ScientificProgrammer@users.noreply.github.com>",
+    "time": "2022-10-20 18:34:47",
+    "files": 7,
+    "merge": true,
+    "message": "Merge pull request #91 from ropensci/gha\n\nmodernize GHA workflow + update README + add Rproj"
+  },
+  "repo": "https://github.com/ropensci/gistr",
+  "pkg": "gistr"
+}
